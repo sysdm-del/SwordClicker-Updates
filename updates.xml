@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="80" updatableVersionMin="" updatableVersionMax="" fileName="SwordClicker_windows-x64_1_0.exe" newVersion="1.0" newMediaFileId="80" fileSize="48579584" md5Sum="363a7b38be1fc2622f00dd72827a14ab" sha256Sum="1bed02c693ce720579326ec90599886c9249595e3fddb7bf9e2f4383bf317b77" bundledJre="windows-amd64-17.0.8.tar.gz" archive="false" singleBundle="false">
+    <comment language="en" />
+  </entry>
+</updateDescriptor>
